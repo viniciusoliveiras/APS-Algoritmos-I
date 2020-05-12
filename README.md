@@ -5,7 +5,7 @@ Resolva as questões abaixo utilizando o programa VisuALG:
 #### ATIVIDADE 1
 
 
-**Questão 1)** Faça um algoritmo que leia o nome, RG, idade, sexo, endereço, telefone e e-mail de um usuário. Imprima os dados do usuário na tela. (Valor 0,1 ponto)
+✔ **Questão 1)** Faça um algoritmo que leia o nome, RG, idade, sexo, endereço, telefone e e-mail de um usuário. Imprima os dados do usuário na tela. (Valor 0,1 ponto)
 
 **Questão 2)** Escreva um programa que leia uma temperatura em graus Celsius e a transforme em  Fahrenheit. Fórmula: F = (9*C+160)/5. (Valor 0,2 ponto)
 
