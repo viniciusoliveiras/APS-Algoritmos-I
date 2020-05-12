@@ -2,7 +2,7 @@
 
 Resolva as questões abaixo utilizando o programa VisuALG:
 
-ATIVIDADE 1
+#### ATIVIDADE 1
 
 
 Questão 1) Faça um algoritmo que leia o nome, RG, idade, sexo, endereço, telefone e e-mail de um usuário. Imprima os dados do usuário na tela. (Valor 0,1 ponto)
@@ -32,7 +32,7 @@ Divisível por 2
 
  
 
-ATIVIDADE 2
+#### ATIVIDADE 2
 
 
 Questão 1) Escreva um algoritmo que solicite a idade de várias pessoas (UTILIZE O REPITA). Informe o total de pessoas com menos de 25 anos e o total de pessoas com mais de 50 anos. O programa termina quando idade for negativa (Não deve ser utilizada na contagem). (Valor 0,2 ponto)
