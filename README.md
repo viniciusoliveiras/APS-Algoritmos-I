@@ -11,7 +11,7 @@ Resolva as questões abaixo utilizando o programa VisuALG:
 
 **Questão 3)** Escreva um algoritmo que calcule o salário de um trabalhador. Serão solicitados do usuário o valor da hora trabalhada, número de horas e o % de desconto do INSS. Ao final, imprima o salário líquido do trabalhador. (Valor 0,2 ponto)
 
-✔ **Questão 4)** Escreva um algoritmo que leia a idade de uma pessoa e informar a sua classe eleitoral. (Valor 0,2 ponto)
+**Questão 4)** Escreva um algoritmo que leia a idade de uma pessoa e informar a sua classe eleitoral. (Valor 0,2 ponto)
 
             Não eleitor (abaixo de 16 anos)
 
