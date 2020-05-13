@@ -7,11 +7,11 @@ Resolva as questões abaixo utilizando o programa VisuALG:
 
 ✔ **Questão 1)** Faça um algoritmo que leia o nome, RG, idade, sexo, endereço, telefone e e-mail de um usuário. Imprima os dados do usuário na tela. (Valor 0,1 ponto)
 
-**Questão 2)** Escreva um programa que leia uma temperatura em graus Celsius e a transforme em  Fahrenheit. Fórmula: F = (9*C+160)/5. (Valor 0,2 ponto)
+✔ **Questão 2)** Escreva um programa que leia uma temperatura em graus Celsius e a transforme em  Fahrenheit. Fórmula: F = (9*C+160)/5. (Valor 0,2 ponto)
 
-**Questão 3)** Escreva um algoritmo que calcule o salário de um trabalhador. Serão solicitados do usuário o valor da hora trabalhada, número de horas e o % de desconto do INSS. Ao final, imprima o salário líquido do trabalhador. (Valor 0,2 ponto)
+✔ **Questão 3)** Escreva um algoritmo que calcule o salário de um trabalhador. Serão solicitados do usuário o valor da hora trabalhada, número de horas e o % de desconto do INSS. Ao final, imprima o salário líquido do trabalhador. (Valor 0,2 ponto)
 
-✔ **Questão 4)** Escreva um algoritmo que leia a idade de uma pessoa e informar a sua classe eleitoral. (Valor 0,2 ponto)
+ **Questão 4)** Escreva um algoritmo que leia a idade de uma pessoa e informar a sua classe eleitoral. (Valor 0,2 ponto)
 
             Não eleitor (abaixo de 16 anos)
 
@@ -20,7 +20,7 @@ Resolva as questões abaixo utilizando o programa VisuALG:
             Eleitor facultativo (entre 16 e 17 e maior de 65 anos)
 
 
-**Questão 5)** Escreva um algoritmo que receba um número do teclado e informar se ele é divisível por 8, por 5, por 2 ou se não é divisível por nenhum destes. Verifique para cada um dos números. (Valor 0,3 ponto)
+✔ **Questão 5)** Escreva um algoritmo que receba um número do teclado e informar se ele é divisível por 8, por 5, por 2 ou se não é divisível por nenhum destes. Verifique para cada um dos números. (Valor 0,3 ponto)
 
 Exemplo:                                                       Exemplo 2:                                         Exemplo 3:
 
