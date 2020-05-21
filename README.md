@@ -35,9 +35,9 @@ Divisível por 2
 #### ATIVIDADE 2
 
 
-**Questão 1)** Escreva um algoritmo que solicite a idade de várias pessoas (UTILIZE O REPITA). Informe o total de pessoas com menos de 25 anos e o total de pessoas com mais de 50 anos. O programa termina quando idade for negativa (Não deve ser utilizada na contagem). (Valor 0,2 ponto)
+✔ **Questão 1)** Escreva um algoritmo que solicite a idade de várias pessoas (UTILIZE O REPITA). Informe o total de pessoas com menos de 25 anos e o total de pessoas com mais de 50 anos. O programa termina quando idade for negativa (Não deve ser utilizada na contagem). (Valor 0,2 ponto)
 
-**Questão 2)** Escreva um programa que receba números inteiros entre 0 e 10 (UTILIZE O ENQUANTO). Se o usuário digitar um número diferente, mostre a mensagem "Número Inválido" e solicite um número novamente. Caso digite o número correto, mostre a contagem do 0 até o número digitado e finalize o programa. (Valor 0,2 ponto)
+✔ **Questão 2)** Escreva um programa que receba números inteiros entre 0 e 10 (UTILIZE O ENQUANTO). Se o usuário digitar um número diferente, mostre a mensagem "Número Inválido" e solicite um número novamente. Caso digite o número correto, mostre a contagem do 0 até o número digitado e finalize o programa. (Valor 0,2 ponto)
 
 Exemplo:
 
