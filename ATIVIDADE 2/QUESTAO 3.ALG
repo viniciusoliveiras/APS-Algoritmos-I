@@ -1,5 +1,6 @@
 Algoritmo "QUESTÃO 3"
 
+
 Var
    S, I, K, SOMA:inteiro
 
@@ -12,22 +13,21 @@ Inicio
    escreval
    escreval("--------- RESULTADO ---------")
    escreval
-   
+
    se(S%2=0)entao
       S <- S -1
    fimse
-        escreval("SAÍDA")
+
+   escreval("SAÍDA")
    para K de S ate I passo -2 faca
       se(K<>I) entao
-                  escreva(K)
-      fimse
-
-      se(K<>I) entao
+         escreva(K)
          SOMA <- SOMA + K
       fimse
    fimpara
-          escreval
-          escreval
+
+   escreval
+   escreval
    escreval("SOMA")
    escreva(SOMA)
 
