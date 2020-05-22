@@ -45,7 +45,7 @@ Número 5
 
 0 - 1- 2 -3 -4 -5
 
-**Questão 3)** Crie um algoritmo que leia os limites inferior e superior de um intervalo e imprimir todos os números ímpares no intervalo aberto e seu somatório (UTILIZE O PARA). Suponha que os dados digitados são para um intervalo decrescente. (Valor 0,2 ponto)
+✔ **Questão 3)** Crie um algoritmo que leia os limites inferior e superior de um intervalo e imprimir todos os números ímpares no intervalo aberto e seu somatório (UTILIZE O PARA). Suponha que os dados digitados são para um intervalo decrescente. (Valor 0,2 ponto)
 
 Exemplo:
 
