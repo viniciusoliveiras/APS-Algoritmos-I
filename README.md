@@ -53,7 +53,7 @@ Limite inferior: 3                    Saída: 11  9  7  5
 
 Limite superior: 12                Soma: 32
 
-**Questão 4)** Escreva um procedimento que receba um número inteiro e o imprima na forma extensa. Por exemplo, para 1 a saída desejada é “Um”. A função deve ser capaz de gerar o extenso dos números de 1 até 15, inclusive. Caso um número não compatível seja recebido o procedimento deve mostrar uma mensagem de erro. Crie também um algoritmo que leia um valor inteiro e chame o procedimento criado acima para a impressão do número extenso. (Valor 0,2 ponto)
+✔ **Questão 4)** Escreva um procedimento que receba um número inteiro e o imprima na forma extensa. Por exemplo, para 1 a saída desejada é “Um”. A função deve ser capaz de gerar o extenso dos números de 1 até 15, inclusive. Caso um número não compatível seja recebido o procedimento deve mostrar uma mensagem de erro. Crie também um algoritmo que leia um valor inteiro e chame o procedimento criado acima para a impressão do número extenso. (Valor 0,2 ponto)
 
-**Questão 5)** Escreva uma função que receba dois números inteiros x e y. Essa função deve verificar se x é divisível por y. No caso positivo, a função deve retornar 1, caso contrário zero. Escreva também um algoritmo para testar tal função exibindo uma mensagem de acordo com o resultado. (Valor 0,2 ponto)
+✔ **Questão 5)** Escreva uma função que receba dois números inteiros x e y. Essa função deve verificar se x é divisível por y. No caso positivo, a função deve retornar 1, caso contrário zero. Escreva também um algoritmo para testar tal função exibindo uma mensagem de acordo com o resultado. (Valor 0,2 ponto)
 
