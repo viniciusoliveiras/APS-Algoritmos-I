@@ -1,32 +1,35 @@
 Algoritmo "IDADE"
-// Autor(a)    : Jhonatha V. , Victor A. , Vinicius Oliveira
-// Data atual  : 13/05/2020
+//
+//
+//Disciplina: Algoritmos I
+//Professor: Andre Cotelli
+//Autores: Victor A. Santos D., Jhonata Vinicius e Vin�cius Oliveira
 
 var
 
-idade ,menorq25, maiorq50: inteiro
+   idade ,menorq25, maiorq50: inteiro
 
 inicio
 
-repita
+   repita
 
       escreva("Informe a Idade: ")
       leia(idade)
 
-se (idade>=0) e (idade<25) entao
-menorq25 <- menorq25 + 1
+      se (idade>=0) e (idade<25) entao
+         menorq25 <- menorq25 + 1
 
-fimse
+      fimse
 
-se (idade>50) entao
-maiorq50 <- maiorq50 + 1
+      se (idade>50) entao
+         maiorq50 <- maiorq50 + 1
 
-fimse
+      fimse
 
-  ate (idade<0)
+   ate (idade<0)
 
-     
-     escreval("Maiores que 50: ", maiorq50)
-     escreval ("Menores que 25: ", menorq25)
-     
+        
+   escreval("Maiores que 50: ", maiorq50)
+   escreval ("Menores que 25: ", menorq25)
+
 fimalgoritmo

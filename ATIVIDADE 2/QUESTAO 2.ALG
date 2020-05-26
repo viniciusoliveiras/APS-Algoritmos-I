@@ -1,4 +1,9 @@
 Algoritmo "QUESTAO 2 - ATIV. 2"
+//
+//
+//Disciplina: Algoritmos I
+//Professor: Andre Cotelli
+//Autores: Victor A. Santos D., Jhonata Vinicius e Vinícius Oliveira
 
 Var
    N, J:inteiro

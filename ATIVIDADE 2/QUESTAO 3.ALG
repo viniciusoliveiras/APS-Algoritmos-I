@@ -1,5 +1,9 @@
 Algoritmo "QUESTÃO 3"
-
+//
+//
+//Disciplina: Algoritmos I
+//Professor: Andre Cotelli
+//Autores: Victor A. Santos D., Jhonata Vinicius e Vinícius Oliveira
 
 Var
    S, I, K, SOMA:inteiro

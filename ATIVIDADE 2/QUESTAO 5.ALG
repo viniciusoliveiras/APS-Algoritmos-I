@@ -1,4 +1,9 @@
 Algoritmo "QUESTÃO 5 - ATIVIDADE 2"
+//
+//
+//Disciplina: Algoritmos I
+//Professor: Andre Cotelli
+//Autores: Victor A. Santos D., Jhonata Vinicius e Vinícius Oliveira
 
 Var
    X,Y, res: inteiro
@@ -24,7 +29,7 @@ Inicio
    res <- divisivel(x,y)
    escreval
    se (res=1) entao
-      escreva("O número",x," é divisível por",y)
+      escreva("O número",x," é divisível por",y,". O resultado é",x/y,".")
    senao
       escreva("O número",x," não é divisível por",y)
    fimse
